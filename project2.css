@@ -1,0 +1,762 @@
+@media screen and (min-width: 768px) {
+
+#navbarr{
+    color: #28A745;
+    /* position: fixed; */
+}
+
+#logo{
+    padding-left: 200px;
+}
+
+#england{
+    padding-left:14%;
+    font: 15px lato;
+}
+
+#no{
+    padding-left: 28%;
+    font: 17px lato;
+}
+
+#navbarSupportedContent{
+    padding-left: 17%;
+    font: 16px lato;
+}
+
+#navbarSupportedContent :hover{
+    color: white
+}
+
+.sign-in{
+    padding-right: 28%;
+    /* font: 12px lato; */
+}
+
+.btn{
+    font: 13px lato;
+}
+
+#bg-1{
+    padding-top: 7%;
+    background-image: url('images/farmcenta-front-banner.jpg');
+    background-size: cover;
+    width: auto;
+    height: 60vh;
+}
+
+#improving, h2 p{
+    color: white;
+    padding-left: 5%;
+}
+
+.learn-more{
+    background-color: orange;
+    border: 5px ;
+    border-radius: 8px;
+    color: whitesmoke;
+    font-size: 13px;
+    font: 13px lato;
+}
+
+/* #bg-2{
+    background-image: url('');
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5), url('images/tractor\ back.jpg'));
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+} */
+
+#commodity{
+    padding-top: 3%;
+    padding-left: 24%;
+    padding-right: 24%;
+    padding-bottom: 4%;
+}
+
+#commodity h1{
+    color: #008000;
+    font-size: 50px;
+}
+
+#commodity p{
+    font: 19.2px lato;
+    color: #616971;
+}
+
+#image-1{
+   border-radius: 10px;
+   margin-left: 25%;
+   margin-bottom: 15%;
+}
+
+#png-1{
+    width: 20%;
+}
+
+#png-1 img{
+    width: 65px;
+}
+
+#png-1 p{
+    margin-bottom: 35%;
+    font: 17px lato;
+}
+
+#access{
+    padding-left: 24%;
+    padding-right: 24%;
+    padding-bottom: 4%; 
+}
+
+#access h1{
+    color: #008000;
+    font-size: 46px;
+}
+
+#access p{
+    font: 19.5px lato;
+    color: #616971;
+}
+
+#img-2{
+    border-radius: 10px;
+    height: 55vh;
+}
+
+#png-2 img{
+    width: 65px;
+    margin-left: 55%; 
+   
+}
+
+#png-2 p{
+    margin-left: 55%;
+    margin-bottom: 25%;
+    font: 17px lato;
+}
+
+#png2{
+    width: 20%;
+    margin-left: 5%;
+}
+
+#png2 img{
+    width: 65px;
+}
+
+#png2 p{
+    margin-bottom: 35%;
+    font: 17px lato;
+}
+
+#agric{
+    padding-left: 25%;
+    padding-right: 24%;
+    padding-bottom: 4%;
+    padding-top: 5%;
+    text-align: center;
+}
+
+#agric h1{
+    color: #008000;
+}
+
+#agric p{
+    font: 19.2px lato;
+    color: #616971;
+}
+
+#img-3{
+    height: 45vh;
+    border-radius: 10px;
+    margin-left: 25%;
+    margin-bottom: 15%;
+}
+
+#png-3{
+    width: 20%;
+    margin-left: 1%;
+}
+
+#png-3 img{
+    width: 65px;
+    margin-left: 7%;
+}
+
+#png-3 p{
+    margin-bottom: 25%;
+    margin-left: 7%;
+    font: 17px lato;
+}
+
+#png3{
+    padding-right: 4%;
+}
+
+#png3 img{
+    width: 65px;
+    margin-left: 7%;
+}
+
+#png3 p{
+    margin-bottom: 25%;
+    margin-left: 7%;
+    font: 17px lato;
+}
+
+
+#approach{
+    margin-left: 12%;
+    width: 60%;
+}
+
+#approach p{
+    font: 19.2px lato;
+    color: #616971;
+}
+
+#fico{ 
+    margin-left: 10%;
+}
+
+#finance, #como, #consul{
+    background-color: blanchedalmond;
+    margin-right: 2%;
+    height: 44vh;
+    border-radius: 2%;
+    width: 25%;
+}
+
+#fico img{
+    width: 65px;
+    margin-top: 4%;
+    margin-bottom: 5%;
+}
+
+#fico h3{
+    color: #008000;
+    margin-left: 4%;
+    font-size: 20px;
+}
+
+#fico p{
+    margin-left: 4%;
+    margin-bottom: 17%;
+    font: 17.3px lato;
+}
+
+#fico button{
+    margin-left: 4%;
+    background-color: #28A745;
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    padding: 7px 9px;
+    font: 13px lato;
+}
+
+#why-farm{
+    text-align: center;
+    padding-top: 4%;
+    padding-left: 7%;
+}
+
+#why-farm h1{
+    color: #008000;
+}
+
+#farm p{
+    font: 19.2px lato;
+    color: #616971;
+}
+
+#why-farm img{
+    width: 65px;
+}
+
+#farmland, #base, #invest, #cattles{
+    background-color: blanchedalmond;
+    height: 35vh;
+    border-radius: 1%;
+    width: 19%;
+    margin-top: 3%;
+    margin-left: 3%;
+    padding-top: 5%;
+}
+
+#fabacain{
+    margin-left: 2%;
+}
+
+#fabacain p{
+    font: 17.3px lato;
+}
+
+#media{
+    padding-left: 12%;
+    padding-top: 6%;
+}
+
+#medialogo{
+    width: 87%;
+    margin-left: 8%;
+    font: 17px lato;
+}
+
+#medialogo img{
+    height: 8vh;
+    margin-top: 5%;
+}
+
+#business-day, #vanguard, #starconnect{
+    background-color: blanchedalmond;
+    border-radius: 2%;
+    width: 30%;
+    height: 33vh;
+    margin-left: 2%;
+    margin-bottom: 5%;
+}
+
+#partners{
+    text-align: center;
+    margin-bottom: 2%;
+    font: 19.2px lato;
+    color: #616971;
+}
+
+#partners-logo{
+    margin-left: 10%;
+}
+
+/* #partners-logo img{
+    width: 80%; 
+}  */
+
+#nicert, #leadway, #crenova, #friesland, #bakertilly{
+    width: 15%;
+    height: 15vh;
+    border: 5px ;
+    background-color: white;
+    box-shadow: 0px 2px 4px rgba(81, 80, 80, 0.2) ;
+    margin-left: 1%;
+    margin-bottom: 5%;
+}
+
+#footer-1{
+    width: 85%;
+    margin-left: 10%;
+}
+
+#contact{
+    width: 20%;
+    margin-right: 5%;
+}
+
+#footer-1 h5{
+    color: #008000;
+}
+
+#footer-1 button{
+    border: none;
+    padding: 2%;
+    margin-top: 8%;
+    width: 30%;
+    border-radius: 5px;
+}
+
+#footer-2{
+    margin-left: 10%;
+    font: 16px lato;
+}
+
+#footer-bg{
+    padding-top: 7%;
+    background-image: url('images/grey-bg.avif');
+}
+}
+
+/* SMALL SCREEN START   */
+
+@media screen and (max-width: 767px) {
+
+    #navbarr{
+        color: #28A745;
+        /* position: fixed; */
+        padding-right: 40px;
+        width: 100%;
+    }
+    
+    #logo{
+        padding-left: 40px;
+    }
+    
+    #england{
+        display: none;
+        /* padding-left:14%; */
+        /* font: 15px lato; */
+    }
+    
+    #no{
+        display: none;
+        padding-left: 28%;
+        /* font: 17px lato; */
+    }
+    
+    #navbarSupportedContent{
+        font: 16px lato;
+    }
+    
+    #navbarSupportedContent :hover{
+        color: white
+    }
+    
+    /* .sign-in{
+        padding-right: 28%;
+        /* font: 12px lato; */
+    /* }  */
+    
+    .btn{
+        font: 13px lato;
+    }
+    
+    #bg-1{
+        /* padding-top: 5%; */
+        background-image: url('images/farmcenta-front-banner.jpg');
+        background-size: cover;
+        /* height: 100%; */
+        width: auto;
+    }
+    
+    #improving, h2 p{
+        color: white;
+        padding-left: 4%;
+        padding-top: 5%;
+        font-family: lato;
+    }
+    
+    .learn-more{
+        background-color: orange;
+        border: 5px ;
+        border-radius: 8px;
+        color: whitesmoke;
+        font-size: 13px;
+        font: 10px lato;
+        margin-bottom: 5%;
+    }
+    
+    #commodity{
+        padding-top: 3%;
+        /* padding-left: 24%; */
+        /* padding-right: 24%; */
+        padding-bottom: 4%;
+    }
+    
+    #commodity h1{
+        color: #008000;
+        /* font-size: 50px; */
+        font-family: lato;
+    }
+    
+    #commodity p{
+        /* font: 19.2px lato; */
+        color: #616971;
+        font-family: lato;
+    }
+    
+    #image-1{
+       border-radius: 10px;
+       /* margin-left: 25%; */
+       margin-bottom: 10%;
+       width: 100%;
+    }
+    
+    #png-1{
+        width: 50%;
+    }
+    
+    #png-1 img{
+        width: 60px;
+    }
+    
+    #png-1 p{
+        margin-bottom: 35%;
+        /* font: 17px lato; */
+        font-family: lato;
+    }
+    
+    #access{
+        /* padding-left: 24%; */
+        /* padding-right: 24%; */
+        padding-bottom: 4%; 
+    }
+    
+    #access h1{
+        color: #008000;
+        /* font-size: 46px; */
+        font-family: lato;
+    }
+    
+    #access p{
+        font-family: lato;
+        color: #616971;
+    }
+    
+    #img-2{
+        border-radius: 10px;
+        /* height: 55vh; */
+        width: 100%;
+    }
+
+    #png-2{
+        width: 45%;
+    }
+    
+    #png-2 img{
+        width: 60px;
+        /* margin-left: 55%;  */
+       
+    }
+    
+    #png-2 p{
+        /* margin-left: 55%; */
+        margin-bottom: 25%;
+        font-family: lato;
+    }
+    
+    #png2{
+        width: 55%;
+        /* margin-left: 5%; */
+    }
+    
+    #png2 img{
+        width: 60px;
+    }
+    
+    #png2 p{
+        margin-bottom: 35%;
+        font-family: lato;
+    }
+    
+    #agric{
+        /* padding-left: 25%; */
+        /* padding-right: 24%; */
+        padding-bottom: 4%;
+        padding-top: 5%;
+        text-align: center;
+    }
+    
+    #agric h1{
+        color: #008000;
+        font-family: lato;
+    }
+    
+    #agric p{
+        font-family: lato;
+        color: #616971;
+    }
+    
+    #img-3{
+        /* height: 45vh; */
+        border-radius: 10px;
+        /* margin-left: 25%; */
+        margin-bottom: 15%;
+    }
+    
+    #png-3{
+        width: 50%;
+        /* margin-left: 1%; */
+    }
+    
+    #png-3 img{
+        width: 60px;
+        /* margin-left: 7%; */
+    }
+    
+    #png-3 p{
+        margin-bottom: 25%;
+        /* margin-left: 7%; */
+        font-family: lato;
+    }
+    
+    #png3{
+        padding-right: 4%;
+        width: 50%;
+    }
+    
+    #png3 img{
+        width: 60px;
+        /* margin-left: 7%; */
+    }
+    
+    #png3 p{
+        margin-bottom: 25%;
+        /* margin-left: 7%; */
+        font-family: lato;
+    }
+    
+    
+    #approach {
+        font-family: lato;
+        text-align: center;
+        /* margin-left: 12%; */
+        /* width: 60%; */
+    }
+    
+    #approach p{
+        font-family: lato;
+        color: #616971;
+    }
+    
+    #fico{ 
+        font-family: lato;
+        /* margin-left: 10%; */
+    }
+    
+    #finance, #como, #consul{
+        background-color: blanchedalmond;
+        margin-bottom: 2%;
+        margin-left: 2%;
+        /* height: auto; */
+        border-radius: 2%;
+        width: 100%;
+    }
+    
+    #fico img{
+        width: 60px;
+        margin-top: 4%;
+        margin-bottom: 5%;
+        margin-left: 5%;
+    }
+    
+    #fico h3{
+        color: #008000;
+        margin-left: 4%;
+        font-size: 20px;
+    }
+    
+    #fico p{
+        margin-left: 4%;
+        /* margin-bottom: 17%; */
+        font: 17.3px lato;
+    }
+    
+    #fico button{
+        margin-left: 4%;
+        background-color: #28A745;
+        border: 0;
+        border-radius: 5px;
+        color: white;
+        padding: 7px 9px;
+        font: 13px lato;
+        margin-left: 40%;
+        margin-bottom: 3%;
+    }
+    
+    #why-farm{
+        text-align: center;
+        padding-top: 4%;
+        /* padding-left: 7%; */
+    }
+    
+    #why-farm h1{
+        color: #008000;
+        font-family: lato;
+    }
+    
+    #farm p{
+        color: #616971;
+        font-family: lato;
+    }
+    
+    #why-farm img{
+        width: 60px;
+    }
+    
+    #farmland, #base, #invest, #cattles{
+        background-color: blanchedalmond;
+        /* height: 35vh; */
+        border-radius: 5px;
+        /* width: 50%; */
+        margin-top: 3%;
+        margin-left: 5%;
+        padding-top: 5%;
+        font-family: lato;
+    }
+    
+    #media{
+        /* padding-left: 12%; */
+        text-align: center;
+        padding-top: 6%;
+        font-family: lato;
+    }
+    
+    #medialogo{
+        /* width: 100%; */
+        /* margin-left: 8%; */
+        font-family: lato;
+    }
+    
+    #medialogo img{
+        /* height: 4vh; */
+        margin-top: 5%;
+    }
+    
+    #business-day, #vanguard, #starconnect{
+        background-color: blanchedalmond;
+        border-radius: 2%;
+        /* width: 31%; */
+        /* height: 33vh; */
+        margin-left: 5%;
+        margin-bottom: 3%;
+    }
+    
+    #partners{
+        text-align: center;
+        /* margin-bottom: 2%; */
+        font: 19.2px lato;
+        color: #616971;
+    }
+    
+    #nicert, #leadway, #crenova, #friesland, #bakertilly{
+        width: 18%;
+        /* height: 15vh; */
+        border: 5px ;
+        background-color: white;
+        box-shadow: 0px 2px 4px rgba(81, 80, 80, 0.2) ;
+        margin-left: 2%;
+        margin-bottom: 5%;
+    }
+    
+    #footer-1{
+        width: 100%;
+        /* margin-left: 5%; */
+    }
+    
+    #footer-1 h5{
+        margin-top: 5%;
+        color: #008000;
+        /* text-align: center; */
+    }
+    
+    #footer-1 button{
+        border: none;
+        padding: 2%;
+        margin-top: 5%;
+        width: 30%;
+        border-radius: 5px;
+    }
+    
+    #footer-2{
+        text-align: center;
+        /* margin-left: 10%; */
+        font: 16px lato;
+    }
+    
+    #footer-bg{
+        padding-top: 5%;
+        background-image: url('images/grey-bg.avif');
+        /* background-size: auto; */
+    } 
+    }
+    
